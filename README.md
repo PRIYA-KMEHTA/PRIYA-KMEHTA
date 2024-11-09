@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm PRIYA MEHTA</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“￼https://images.app.goo.gl/HPF32A1dhKJRbXHX9￼￼￼￼”>
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/adf1d6d5-6c30-46ae-9ef2-b30c1d40b523" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya-kmehta&label=Profile%20views&color=0e75b6&style=flat" alt="priya-kmehta" /> </p>
 
